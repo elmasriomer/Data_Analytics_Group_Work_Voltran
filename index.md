@@ -1,0 +1,31 @@
+
+## voltRan
+
+* [Gökçe Ezeroğlu](https://mef-bda503.github.io/pj18-gokceezeroglu/)
+* [Kerim Acar](https://mef-bda503.github.io/pj18-mkerimacar/)
+* [Oktay Ekici](https://mef-bda503.github.io/pj18-oktayekici/)
+* [Ömer Elmasrı](https://mef-bda503.github.io/pj18-elmasriomer/)
+* [Tarık Özçelik](https://mef-bda503.github.io/pj18-TarikOzcelik81/)
+
+## Project Proposal
+voltRan's project will be based on the analyses of sales figures of an FMCG company. Basically zone, category, product and campaign wise analyses will be performed.
+
+Please [click here](https://mef-bda503.github.io/gpj18-voltran/voltran.html) for more information about our project.
+
+## First Analysis
+Please [click here](https://mef-bda503.github.io/gpj18-voltran/VoltRan_group_project.html) for our first analysis.
+
+## Explanatory Data Analysis
+For our first analysis [click here](https://mef-bda503.github.io/gpj18-voltran/archive/VoltRan_group_project_final.html).
+
+For final analysis [click here](https://mef-bda503.github.io/gpj18-voltran/2612EDAh.html).
+
+For final analysis PDF [click here](https://mef-bda503.github.io/gpj18-voltran/2612EDAp.pdf).
+
+For presentation [click here](https://mef-bda503.github.io/gpj18-voltran/2612EDAs.html).
+
+For Shiny Map please [click here](https://kerimacar.shinyapps.io/Project_v2/).
+
+For Shiny source code please [click here](https://mef-bda503.github.io/gpj18-voltran/shiny/app.R).
+
+
